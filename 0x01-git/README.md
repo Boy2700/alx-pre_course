@@ -1,2 +1,2 @@
-my first README.md
-this is an update
+my first readme.md
+This is an update
